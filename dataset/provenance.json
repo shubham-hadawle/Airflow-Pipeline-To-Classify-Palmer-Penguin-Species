@@ -1,0 +1,10 @@
+{
+  "dataset": "Palmer Penguins",
+  "source_url": "https://raw.githubusercontent.com/allisonhorst/palmerpenguins/156daa4301838d9fdcc5b018b29b9149bf975552/inst/extdata/penguins.csv",
+  "commit": "156daa4301838d9fdcc5b018b29b9149bf975552",
+  "sha256": "f204db2c753b0937caac3cb35258562c14f073e4bbc76be24b4c51ce22767a93",
+  "retrieved_on": "2026-10-18",
+  "license": "CC0",
+  "authors": "Allison Horst, Alison Hill, Kristen Gorman",
+  "observations_credit": "Kristen Gorman and Palmer Station LTER"
+}

@@ -1,0 +1,21 @@
+{
+  "estimator": "LogisticRegression",
+  "features": [
+    "bill_length_mm",
+    "bill_depth_mm",
+    "flipper_length_mm",
+    "body_mass_g"
+  ],
+  "imputation": "training-set median",
+  "scaling": "training-set StandardScaler",
+  "C": 1.0,
+  "max_iter": 1000,
+  "seed": 17,
+  "versions": {
+    "scikit_learn": "1.5.2",
+    "pandas": "2.2.3",
+    "numpy": "1.26.4"
+  },
+  "intended_use": "Educational species classification from four body measurements.",
+  "limitations": "Small historical sample; random holdout does not establish performance on new colonies or years."
+}

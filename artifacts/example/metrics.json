@@ -1,0 +1,60 @@
+{
+  "accuracy": 1.0,
+  "macro_f1": 1.0,
+  "baseline_macro_f1": 0.20430107526881722,
+  "species_order": [
+    "Adelie",
+    "Chinstrap",
+    "Gentoo"
+  ],
+  "confusion_matrix": [
+    [
+      38,
+      0,
+      0
+    ],
+    [
+      0,
+      17,
+      0
+    ],
+    [
+      0,
+      0,
+      31
+    ]
+  ],
+  "per_species": {
+    "Adelie": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 38.0
+    },
+    "Chinstrap": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 17.0
+    },
+    "Gentoo": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 31.0
+    },
+    "accuracy": 1.0,
+    "macro avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 86.0
+    },
+    "weighted avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 86.0
+    }
+  }
+}

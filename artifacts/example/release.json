@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "minimum_macro_f1": 0.9,
+  "minimum_lift": 0.1,
+  "observed_macro_f1": 1.0,
+  "observed_lift": 0.7956989247311828
+}

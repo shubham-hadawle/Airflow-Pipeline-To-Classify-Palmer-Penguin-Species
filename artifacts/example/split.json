@@ -1,0 +1,6 @@
+{
+  "seed": 17,
+  "holdout_fraction": 0.25,
+  "train_rows": 258,
+  "holdout_rows": 86
+}
